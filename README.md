@@ -26,5 +26,3 @@ Entrega do Resultado
 Criar um repositório no GitHub.
 Criar um arquivo chamado resultado.txt. Dentro desse arquivo, colocar as 10 palavras que mais são usadas no livro, de acordo com o resultado do Job.
 Inserir os arquivo resultado.txt e part-00000 no repositório e informar na plataforma da Digital Innovation One.
-Considerações Finais
-NOTA: Se o Job mostrar um WARN de Interrupt, basta ignorar. Existe um bug no Hadoop que é conhecido. Isso não impacta no processamento.
